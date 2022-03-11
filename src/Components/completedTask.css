@@ -1,0 +1,11 @@
+.mainC {
+  background-color: rgba(0, 255, 0, 0.2);
+}
+
+.mainC .taskC .taskTextC {
+  font-size: 1rem;
+}
+
+.mainC .taskC .taskHeadingC {
+  font-size: 2rem;
+}
